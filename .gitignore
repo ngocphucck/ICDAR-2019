@@ -5,6 +5,6 @@
 *.png
 *.jpeg
 *.jpg
-./data/*
+./data
 __pycache__
 .idea
