@@ -1,0 +1,10 @@
+*.pth
+*.pt
+*.png
+*.ipynb
+*.png
+*.jpeg
+*.jpg
+./data/*
+__pycache__
+.idea
