@@ -2,7 +2,7 @@
 
 ## Usage
 ```bash
-cd Demo
+cd demo
 python3 demo.py
 
 ```
